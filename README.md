@@ -1,6 +1,7 @@
 Create a Token
 
 Description
+
 In developing MyToken, the aim is to craft a straightforward yet robust tool for digital currency. Picture it as laying the groundwork for a digital realm. Key information such as the token's name and its abbreviation is prominently displayed. Through a specialized system, we monitor who holds how much of the token. "Minting" tokens involves creating new ones from scratch and distributing them to specific individuals. Conversely, the "burn" feature allows for the careful removal of tokens from circulation. This mechanism enables the regulation of the token supply, ensuring fairness and security in the system.  
 
 Getting Started
